@@ -1,0 +1,4 @@
+start_id,relation,end_id
+compressor_1,CONNECTED_TO,separator_1
+separator_1,CONNECTED_TO,pipeline_1
+pipeline_1,CONNECTED_TO,well_1
